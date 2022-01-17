@@ -1,5 +1,5 @@
 +++
-title = "Problem Definition"
+title = "Problem"
 date = 2022-01-16T12:26:22+03:00
 weight = 2
 +++
